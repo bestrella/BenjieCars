@@ -1,0 +1,6 @@
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\BenjiePetCare\BenjiePetCare\bin\Debug\BenjiePetCare.exe.config
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\BenjiePetCare\BenjiePetCare\bin\Debug\BenjiePetCare.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\BenjiePetCare\BenjiePetCare\bin\Debug\BenjiePetCare.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\BenjiePetCare\BenjiePetCare\obj\Debug\BenjiePetCare.csprojResolveAssemblyReference.cache
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\BenjiePetCare\BenjiePetCare\obj\Debug\BenjiePetCare.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\BenjiePetCare\BenjiePetCare\obj\Debug\BenjiePetCare.pdb
